@@ -1,0 +1,12 @@
+{
+	"description": "Productive and hopefully uplifting tasks, like cleaning your room or contacting a friend.",
+    "commands": [
+        "Clean your room",
+        "Clean your kitchen",
+        "Write down three things you want to do today",
+        "Contact a friend that you haven't talked to in a while",
+        "Start reading a book you haven't read in a while",
+        "Next time you cook you make yourself your favourite meal",
+        "Start reading a educational book"
+        ]
+}

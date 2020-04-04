@@ -1,0 +1,14 @@
+{
+    "description": "Commands to write on your body. To use this command you have to specify the body parts you want to write on, for example 'body-writing head stomach'. <b>If you don't provide body parts, you will receive no command!</b> The amount of body-writing commands you can receive is determined by the amount of body parts you provide.",
+    "commands": [
+        "Write {} on your "
+        ],
+    "texts": [
+        "'I am an email slave'",
+        "'I obey'",
+        "'I am a hypno slave'",
+        "'I love to be controlled'",
+        "'I love to obey'"
+        ]
+        
+}

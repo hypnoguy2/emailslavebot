@@ -1,0 +1,6 @@
+{
+	"description": "This category contains only one command to take pictures of yourself and send it back to the bot. <b>Only select this category if you are comfortable doing so!</b> The command will always be the last one and does <b>not</b> count into the overall command count.",
+    "commands": [
+        "Take a picture of yourself and send it to me"
+        ]
+}

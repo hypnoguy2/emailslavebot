@@ -1,0 +1,10 @@
+{
+	"description": "Little hypno suggestions that shouldn't harm anyone.",
+    "commands": [
+        "Walk around in you room like a zombie",
+        "Suck on your thumb for {} minutes",
+        "Play your favourite song and dance to it",
+        "Stop moving your arms and legs for {} minutes",
+        "You are stuck to the chair for {} minutes. If you need to stand up for a different command, you have to wait until you're unstuck"
+        ]
+}

@@ -1,0 +1,15 @@
+{
+    "description": "All sorts of clothing related stuff. Putting your shirt inside out, getting into your favourite outfit and so on. There is no command to get naked, although there are commands to be shirtless/pantless. (Also includes things like putting smelly socks in your mouth)",
+    "commands": [
+        "Take off your pants",
+        "Take off your shirt",
+        "Put on your favourite clothes",
+        "Turn around your shirt, so the back is in the front",
+        "Turn your shirt inside out",
+        "Put socks on your hands",
+        "Find the smelliest socks you have and put them into your mouth",
+        "Find the dirtiest underwear you have and wear it onto your head",
+        "Get your finest clothing and put it on",
+        "Wear a pair of socks as gloves"
+    ]
+}
